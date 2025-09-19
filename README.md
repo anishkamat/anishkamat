@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-<p style="font-size:16px;">
+<p style="font-size:20px;">
 🔭 Data Analyst @ <b>UnitedHealth Group</b> – building risk prediction models & dashboards <br>
 👯 Open to collaborating on <b>analytics, BI, and data engineering</b> projects <br>
 🌱 Learning <b>cloud data engineering (AWS, GCP, Azure) & ML practices</b> <br>
