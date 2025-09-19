@@ -1,5 +1,10 @@
-# 💫 About Me:
-## 👋 Hi, I'm Anish Kamat  <br><br>🔭 **Currently Working On**  <br>Data Analyst at **UnitedHealth Group**, building risk prediction frameworks, automated ETL pipelines, and interactive Power BI dashboards to improve healthcare outcomes and operational efficiency.  <br><br>👯 **Looking to Collaborate On**  <br>Data-driven projects in **analytics, BI dashboards, data engineering pipelines, and predictive modeling** with real-world impact in healthcare, finance, and urban operations.  <br><br>🤝 **Looking for Help With**  <br>Exploring advanced **cloud-based data engineering workflows** (AWS, Azure, GCP) and scaling solutions using tools like Kafka, PySpark, and Kubernetes.  <br><br>🌱 **Currently Learning**  <br>Cutting-edge **data engineering & AI/ML practices**, including cloud-native ETL orchestration, statistical modeling, and scalable data warehouse design.  <br><br>💬 **Ask Me About**  <br>**Data Analytics, Business Intelligence, SQL optimization, Tableau/Power BI dashboards, ETL pipelines, and predictive modeling** — from building clean datasets to delivering C-suite insights.  <br><br>⚡ **Fun Fact**  <br>I’ve analyzed **1M+ records** in real-world projects — from mapping NYC flood hotspots 🌊 to optimizing surgical scheduling for hospitals 🏥.  <br>
+# 💫 About Me
+
+🔭 Data Analyst @ **UnitedHealth Group** – building risk prediction models & dashboards  
+👯 Open to collaborating on **analytics, BI, and data engineering** projects  
+🌱 Learning **cloud data engineering (AWS, GCP, Azure) & ML practices**  
+💬 Ask me about **SQL, Python, Tableau/Power BI, ETL pipelines, predictive modeling**  
+⚡ Fun fact: Analyzed **1M+ records** from NYC floods 🌊 to hospital operations 🏥 
 
 
 ## 🌐 Socials:
