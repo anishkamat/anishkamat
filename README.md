@@ -2,7 +2,7 @@
 
 <p style="font-size:20px;">
 🔭 Data Analyst @ <b>UnitedHealth Group</b> – building risk prediction models & dashboards <br>
-👯 Open to collaborating on <b>analytics, BI, and data engineering</b> projects <br>
+🤝 Open to collaborating on <b>analytics, BI, and data engineering</b> projects <br>
 🌱 Learning <b>cloud data engineering (AWS, GCP, Azure) & ML practices</b> <br>
 💬 Ask me about <b>SQL, Python, Tableau/Power BI, ETL pipelines, predictive modeling</b> <br>
 ⚡ Fun fact: Analyzed <b>1M+ records</b> from NYC floods 🌊 to hospital operations 🏥
